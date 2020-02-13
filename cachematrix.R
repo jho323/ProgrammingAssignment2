@@ -1,5 +1,5 @@
-## Put comments here that give an overall description of what your
-## functions do
+## These functions allow user to check if the inverse of a matrix has been solved and stored in cache.
+## If not, it will solve for the function and store it in cache
 
 ## creates a special matrix that caches its inverse
 
