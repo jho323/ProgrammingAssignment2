@@ -35,5 +35,5 @@ cacheSolve <- function(x, ...) {
   data <- x["matrix","get"][[1]]()
   i <- solve(data)
   x["inverse","set"][[1]](i)
-  return(i)
+  return(i) 
 }
